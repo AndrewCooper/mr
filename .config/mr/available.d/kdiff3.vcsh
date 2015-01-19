@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/kdiff3.git]
+checkout = vcsh clone git@github.com:AndrewCooper/kdiff3.git

@@ -1,0 +1,13 @@
+[$HOME/.config/vcsh/repo.d/vim.git]
+checkout = vcsh clone git@github.com:AndrewCooper/vim.git 
+
+[$HOME/.vim/bundle/vim-pathogen]
+checkout = git clone git@github.com:tpope/vim-pathogen.git
+
+[$HOME/.vim/bundle/vim-fugitive]
+checkout = git clone git@github.com:tpope/vim-fugitive.git
+
+[$HOME/.vim/bundle/vim-tbone]
+checkout = git clone git@github.com:tpope/vim-tbone.git
+
+
