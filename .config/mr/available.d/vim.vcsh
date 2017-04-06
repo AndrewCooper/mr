@@ -2,5 +2,5 @@
 checkout = vcsh clone git@github.com:AndrewCooper/vim.git 
 
 [$HOME/.vim/bundle/Vundle.vim]
-checkout = vcsh clone git@github.com:gmarik/Vundle.vim.git
+checkout = git clone git@github.com:gmarik/Vundle.vim.git
 
